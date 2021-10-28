@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: #03045e;
+}
+
+body {
+    background-color: #90e0ef;
+  }
+
+
+.form {
+    display:grid;
+	justify-content: center;
+}
+
+.container{
+    background-color: #00b4d8;
+    padding: 2%;
+    
+    
+}
